@@ -10,6 +10,7 @@ Welcome to focframework's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   license
    gettingstarted
    basics
    focdesc
