@@ -10,7 +10,7 @@ Welcome to focframework's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   ./gettingstarted
+   gettingstarted
    usage/installation
    usage/quickstart
 
