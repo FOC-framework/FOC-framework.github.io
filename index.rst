@@ -11,6 +11,7 @@ Welcome to focframework's documentation!
    :caption: Contents:
 
    gettingstarted
+   focdesc
    usage/installation
    usage/quickstart
 
