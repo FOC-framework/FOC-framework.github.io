@@ -1,4 +1,4 @@
-Hello Again
-===========
+Getting Started
+===============
 
-This is my new file
+This is my new file to get started
