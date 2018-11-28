@@ -1,8 +1,9 @@
 License
 =======
 
-FocFramework is released under Apache License 2.0.
-Copyright 2016 Antoine Samaha
+>FocFramework is an opensourced software and free of charge
+>released under Apache License 2.0. 
+>Copyright 2016 Antoine Samaha
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not any of the source code files except in compliance with the License.
