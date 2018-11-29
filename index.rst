@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to focframework's documentation!
-========================================
+Welcome to FocFramework
+=======================
 
 .. toctree::
    :maxdepth: 2
@@ -14,10 +14,14 @@ Welcome to focframework's documentation!
    gettingstarted
    basics
    focdesc
-   usage/installation
+   userguide/introduction
+   userguide/companyconfig
+   userguide/siteconfig
+   userguide/groupconfig
+   userguide/userconfig
    usage/quickstart
 
-Hello this project is important I am trying to build another page
+
 
 Indices and tables
 ==================
