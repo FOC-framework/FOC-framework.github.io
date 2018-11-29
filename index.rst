@@ -6,6 +6,21 @@
 Welcome to FocFramework
 =======================
 
+FOC is an open source full stack web application framework build using 'java <http://www.java.com/>'_ and 'vaadin <http://www.vaadin.com'_ 
+It is free to use under the 'Apache License, Version 2.0 <http://www.apache.org/licenses/LICENSE-2.0>'_.
+
+At startup you have:
+1. User management module
+  a. User login
+  b. Group of Rights
+  c. Rights by module
+2. Multi company
+3. Multi site or branch
+4. Automatic incremental coding of transactions with configurable prefix
+5. Workflow by transaction
+6. Event triggered automatic emailing
+7. Currency conversion module
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
