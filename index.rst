@@ -20,6 +20,14 @@ At startup you have:
 5. Workflow by transaction
 6. Event triggered automatic emailing
 7. Currency conversion module
+8. DB Adapt data module
+9. DB independent
+10. Integrated no need to learn html and css
+11. WebServices ready
+12. Integration with Jasper report
+13. You still have controle over GUI. We had cases where we used Leaflet and a VIS library
+
+
 
 .. toctree::
    :maxdepth: 2
