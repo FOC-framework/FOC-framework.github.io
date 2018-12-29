@@ -9,7 +9,7 @@ Welcome to FocFramework
 FOC is an open source full stack web application framework build using `java <http://www.java.com>`_ and `vaadin <http://www.vaadin.com>`_ 
 It is free to use under the `Apache License, Version 2.0 <http://www.apache.org/licenses/LICENSE-2.0>`_.
 
-At startup you have:
+At startup you have:</br>
 1. User management module
   a. User login
   b. Group of Rights
