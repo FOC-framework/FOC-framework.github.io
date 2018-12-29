@@ -11,8 +11,6 @@ It is free to use under the `Apache License, Version 2.0 <http://www.apache.org/
 
 At startup you have:
 
-
-
 1. User Management module
   a. User login
   b. Group of Rights
