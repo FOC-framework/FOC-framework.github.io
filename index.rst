@@ -26,7 +26,7 @@ At startup you have:
 10. Integrated no need to learn html and css
 11. WebServices ready
 12. Integration with Jasper report
-13. You still have controle over GUI. We had cases where we used Leaflet and a VIS library
+13. You still have controle over GUI. We had cases where we used Leaflet and the VIS library
 
 
 
